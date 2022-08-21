@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+title: mk
+description: Test
+show_downloads: false
